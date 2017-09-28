@@ -2,6 +2,10 @@
   "name": "arc",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "8.5.0",
+    "npm": "5.3.0"
+  },
   "scripts": {
     "start": "npm run dev",
     "env:dev": "cross-env NODE_ENV=development",
