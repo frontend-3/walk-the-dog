@@ -1,5 +1,5 @@
 ### 1. Demo
-![](https://walk-the-dog-app.herokuapp.com/)
+[https://walk-the-dog-app.herokuapp.com/](https://walk-the-dog-app.herokuapp.com/)
 ### 2. Install dependencies
 
 ```sh
